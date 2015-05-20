@@ -115,13 +115,13 @@ html body {
     float: top;
 }
 
-#footer .connect {
+#connect {
     display: inline-block;
     text-align: center;
     padding: 20px;
 }
 
-#footer .connect img {
+#connect img {
     height: 60px;
     padding: 5px;
 }
