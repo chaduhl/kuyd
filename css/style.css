@@ -5,6 +5,13 @@ html body {
     padding: 0px;
 }
 
+.marquee{
+    color: white;
+    font-size: 1.5em;
+    font-family: "Pontano Sans", sans-serif;
+    background-color: #1F396D;
+}
+
 #header {
     width: 80%;
     background-color: #FFFFFF;
@@ -17,6 +24,11 @@ html body {
     margin-left: auto;
     margin-right: auto;
     display: block;
+}
+
+.logo {
+    text-align: center;
+    display:block;
 }
 
 .menu {
@@ -129,4 +141,10 @@ html body {
 .foot-container {
     width: 80%;
     margin: auto;
+}
+
+.car-container {
+    position: absolute;
+    display: block;
+    z-index: 999;
 }
