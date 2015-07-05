@@ -186,5 +186,6 @@ html body {
 .car-container {
     color: white;
     font-family: sans-serif;
+    text-align: center;
     padding: 20px;
 }
