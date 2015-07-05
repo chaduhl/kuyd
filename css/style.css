@@ -120,17 +120,14 @@ html body {
     color: white;
 }
 
-#footer .container {
-    display: inline-block;
-    padding: 50px;
-    margin: auto;
-    float: top;
+#footer .con-list {
+    display: block;
 }
 
 #connect {
     display: inline-block;
-    text-align: center;
-    padding: 20px;
+    width: 20%;
+    vertical-align: text-top;
 }
 
 #connect img {
@@ -141,8 +138,25 @@ html body {
 .foot-container {
     width: 80%;
     margin: auto;
+    display: block;
 }
 
+#contact {
+    width: 60%;
+    height: 270px;
+    display: inline-block;
+    vertical-align: text-top;
+}
+
+#contact .join-btn {
+    margin-top: 23px;
+}
+
+.social-media {
+    width: 80%;
+    margin: auto;
+    padding-top: 50px;
+}
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
