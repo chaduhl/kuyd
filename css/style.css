@@ -197,3 +197,11 @@ html body {
 .car-container img {
     width: 100%;
 }
+
+.left .right {
+    visibility: hidden;
+}
+
+.left:hover {
+    visibility: visible;
+}
