@@ -16,24 +16,27 @@ html body {
     width: 80%;
     background-color: #FFFFFF;
     margin: auto;
+    text-align: center;
     padding-bottom: 50px;
 }
 
 #header img {
-    width: 300px;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
+    display: inline;
 }
 
 .logo {
     text-align: center;
-    display:block;
+    display: inline;
+    height: 300px;
 }
 
 .menu {
-    padding: 0px;
     text-align: center;
+    display: inline;
+}
+
+.menu img {
+    width: 80px;
 }
 
 .menu li {
