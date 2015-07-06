@@ -128,12 +128,12 @@ html body {
 
 #connect {
     display: inline-block;
-    width: 20%;
+    width: 30%;
     vertical-align: text-top;
 }
 
 #connect img {
-    height: 60px;
+    height: 50px;
     padding: 5px;
 }
 
