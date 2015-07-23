@@ -152,6 +152,14 @@ html body {
         padding-top: 50px;
     }
 
+    #mc_embed_signup .mc-field-group {
+        padding: 25px;
+    }
+
+    #mc_embed_signup .mc-field-group label {
+
+    }
+
 
     /* CUSTOMIZE THE CAROUSEL
     -------------------------------------------------- */
